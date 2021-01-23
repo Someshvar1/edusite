@@ -1,0 +1,32 @@
+body{
+    background-image: url(edu.jpg);
+    background-size:cover ;
+    text-align: center;
+}
+h2{
+    color:aliceblue;
+   margin-top:60px;
+   font-variant: small-caps; 
+   font-family: 'Times New Roman', Times, serif;
+   font-size:50px;
+}
+#main{
+    font-size: xx-large;
+    color: white;
+}
+input{
+    height:60px;
+    width:400px;
+    border-radius: 30px;
+}
+p{
+    color:white;
+    font-size: x-large;
+}
+button{
+    height:50px;
+    width:100px;
+    color:white;
+    background-color: lightgreen;
+    cursor: pointer;
+}

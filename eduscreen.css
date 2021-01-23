@@ -1,0 +1,9 @@
+body{
+    background-image: url(edu.jpg);
+    background-size: cover;
+    text-align: center;
+}
+p{
+    color:black;
+    font-size: larger;
+}
